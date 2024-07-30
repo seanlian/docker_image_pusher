@@ -1,1 +1,1 @@
-portainer/agent:latest
+jenkins:latest
